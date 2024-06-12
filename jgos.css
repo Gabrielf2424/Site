@@ -1,0 +1,66 @@
+header{
+ 
+    border: 1px solid rgba(208, 210, 218, 0.527) ;
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: baseline;
+    background-color:rgb(240, 232, 232);
+    align-items: center;
+    }
+    li{
+    list-style: none;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 80px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    }
+    ul{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    
+    }
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box; 
+     }
+    a{
+        text-decoration: none;
+    
+    }
+    li:hover{
+       background-color: rgb(150, 152, 167); 
+       padding: 10px;
+    }
+    h1{
+        color: rgba(43, 46, 226, 0.349);
+        font-size: 46px;
+    }
+    body{
+       background-image: url(./img/capa\ de\ fund\ 1.jpg);
+       background-repeat: no-repeat;
+        background-size: cover;
+    
+    }
+    p{
+        font-size: 20px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: rgb(165, 141, 113);
+
+      
+    }
+    p:hover{
+        background-color: rgb(27, 18, 24);
+    }
+    h1:hover{
+        color: rgb(92, 105, 83);
+    }
+    h2:hover{
+        color: black;
+    }
+    hr{
+        color: rgb(95, 113, 114);
+    }
