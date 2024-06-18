@@ -46,9 +46,8 @@ header{
     
     }
     p{
-        font-size: 20px;
-      font-family: Verdana, Geneva, Tahoma, sans-serif;
-      color: rgb(165, 141, 113);
+        font-size: 25px;
+      color:pink
 
       
     }
@@ -63,4 +62,16 @@ header{
     }
     hr{
         color: rgb(95, 113, 114);
+    }
+    h1{
+        color: blueviolet;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    p{
+        font-family: cursive;
+     
+    }
+    #box{
+        color: azure;
+        font-size: 30px;
     }
