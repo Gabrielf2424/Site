@@ -13,6 +13,7 @@
  justify-content: baseline;
  background-color:rgb(240, 232, 232);
  align-items: center;
+
  }
  li{
  list-style: none;
@@ -57,7 +58,11 @@ h1:hover{
  justify-content: baseline;
 
  align-items: center;
-  }  
+  }
+  
+  
+    
+  
 
     
 
