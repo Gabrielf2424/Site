@@ -6,6 +6,7 @@ header{
     justify-content: baseline;
     background-color:rgb(240, 232, 232);
     align-items: center;
+
     }
     li{
     list-style: none;
@@ -76,4 +77,8 @@ img{
     margin: 0;
     padding: 0;
     box-sizing: border-box; 
+ }
+ p{
+    color:rgb(132, 88, 173);
+    
  }
