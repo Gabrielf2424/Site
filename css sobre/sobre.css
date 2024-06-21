@@ -17,7 +17,7 @@ header{
     list-style: none;
     text-decoration: none;
     font-size: 20px;
-    margin: 73px;
+    margin: 66px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
     }
@@ -67,6 +67,10 @@ color: deeppink;
     }
     p{
       font-family:cursive;
+      padding:5px
+    }
+    img{
+      padding: 5px;
     }
     
     

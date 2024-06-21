@@ -75,3 +75,10 @@ header{
         color: azure;
         font-size: 30px;
     }
+    p{
+        font-family:cursive;
+        padding:5px
+      }
+      img{
+        padding: 5px;
+      }

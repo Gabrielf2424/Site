@@ -65,7 +65,13 @@ width: 690px;
   #git{
     width: 690px;
   }
-  
+  p{
+    font-family:cursive;
+    padding:5px
+  }
+  img{
+    padding: 5px;
+  }
     
   
 

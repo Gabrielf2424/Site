@@ -47,7 +47,7 @@ header{
         background-color: rgb(181, 181, 196);
     }
     h1:hover{
-        color: rgb(116, 226, 43);
+        color: rgb(121, 69, 116);
     }
     h2:hover{
         color: black;
@@ -79,6 +79,16 @@ img{
     box-sizing: border-box; 
  }
  p{
-    color:rgb(132, 88, 173);
+color:rgb(85, 80, 80);
     
  }
+ p{
+    font-family:cursive;
+    padding:5px
+  }
+  img{
+    padding: 5px;
+  }
+  h2:hover{
+    color:deeppink;
+  }
